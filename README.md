@@ -12,3 +12,10 @@ git pull
 incase of conflicts resolved moved to ->
 
 git push
+
+# git branch strategies
+
+git checkout -b <branch name>
+
+you can apply all the commands in the list #1.
+
