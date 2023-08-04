@@ -1,5 +1,6 @@
 # Netxd_Demo
 
+# Git commands
 git add --all  ("For Every file)
 or
 git add <filepath/finename>  ("Only for specific files")
